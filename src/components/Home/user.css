@@ -1,0 +1,10 @@
+nav a {
+    margin-right: 10px;
+}
+nav a.active{
+    background-color: green;
+}
+.hudai{
+    font-size: x-large;
+    color: red;
+}
